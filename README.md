@@ -1,4 +1,4 @@
-# Foxnews.com/connect:-
+# Foxnews.com/connect
 Do you know about the news application that provides Tv shows, sports, and many other shows? Yes, there is an application where you can watch all these programs. **[Foxnews.com/connect](https://foxnewsconnect.github.io)** is the name of this application. Fox news consists of news related to political news and daily news. It is provided by the providers like Xfinity, optimum, spectrum, direct Tv, etc. These are the service providers through which you can get the application or subscription. One has to pay the monthly bills to get the daily news on fox news.
 Fox News is also a live streaming Tv device, where you can enjoy various Tv shows, sports, news, music and, many more programs. Fox News is an American company that calls it FNC or Fox. The channel is with the cable-oriented service provider. Every fox news has the cable connection of any service cable. The **fox news channel** shows breaking news and is working hard for 24 hours. Fox News is known as the depth news channel of the US. It is present in Samsung smart Tv, Apple Tv, Roku devices, Amazon fire stick Tv, Android Tv, etc. 
 
